@@ -13,6 +13,9 @@
         android:theme="@style/Theme.MySeventhApp"
         tools:targetApi="31">
         <activity
+            android:name=".TasbeehCounter"
+            android:exported="false" />
+        <activity
             android:name=".Login"
             android:exported="false" />
         <activity
