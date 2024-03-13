@@ -1,3 +1,3 @@
-**Intent Message Passing through Intents**
+**Message Passing through Intents**
 
 **Courutines Introduction**
